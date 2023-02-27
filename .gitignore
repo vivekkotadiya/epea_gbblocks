@@ -8,6 +8,8 @@ wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
 
+webpack.config.js
+
 # ignore these plugins
 wp-content/plugins/hello.php
 
@@ -21,3 +23,4 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
